@@ -22,8 +22,8 @@ ni'o doi nebyplovoicpi selmamta
 (物は空(から)であるものと異ならない。空(から)であるものは物と異ならない。)
 
 色即是空 空即是色
-.i lo dacti ba'e du lo kunti .i lo kunti ba'e du lo dacti
-(物は空(から)であるものと正に同じだ。空(から)であるものは物と正に同じだ。)
+.i lo dacti cu ba'e kunti .i lo kunti cu ba'e dacti
+(物は正に空(から)であるものだ。空(から)であるものは正に物だ。)
 
 受想行識亦復如是
 .i fu'e ji'a lo selga'e lo tarmi lo seldji lo selsanji fu'o zo'u la'edi'u ja'a jetnu
@@ -34,7 +34,7 @@ ni'o doi nebyplovoicpi selmamta
 ("鷺の母の子"よ)
 
 是諸法空相
-.i roda ckaji kamkunti
+.i roda ckaji lo kamkunti
 (全ては空(から)という特徴を持つ)
 
 不生不滅
@@ -98,12 +98,12 @@ ni'i lo nu pilno lo kamprije je mulno kei
 (知恵という完成を使うことにより)
 
 心無罣礙
-lo fanta be tu'a lo cinmo na zasti
+lo fanta be tu'a lo cnise'i na zasti
 (心に関する妨げがない)
 
 無罣礙故
-.ije ni'i lo nu lo fanva be tu'a lo cinmo na zasti kei
-(心に関する妨げがないから)
+.ije ni'i lo nu lo fanva na zasti kei
+(妨げがないから)
 
 無有恐怖
 lo nunterpa na zasti
