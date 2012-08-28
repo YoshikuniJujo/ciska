@@ -54,12 +54,125 @@ la'edi'u ja'a jetnu</lojban>
 <japanese>感じるもの、想起するもの、欲するもの、認識するものについても<!--
 -->上で述べたことは正に正しい</japanese>
 <note>
-受: selga'o
+受: selga'e
 想: tarmi
 行: seldji
 識: selsanji
-としたが、再考の必要あり
+としたが、再考の必要あり。
+ひとつには使用した brivla が適切かどうかの問題があり、もうひとつには、
+nu ganse とせずに se ganse 等としたという点が適切かどうかという問題がある。
+しかし、色(物)と並べて同様と言うためには「受という働き」ではなく、
+「受という働きによってとらえられるもの」と解釈するべきと考えた。
 </note>
+</line>
+
+<line>
+<src>舎利子</src>
+<lojban>.i doi la nebyplovoicpi selmamta</lojban>
+<japanese>"鷺の母の子"よ</japanese>
+</line>
+
+<line>
+<src>是諸法空相</src>
+<lojban>.i roda ckaji lo kamkunti</lojban>
+<japanese>全ては空(から)という特徴を持つ</japanese>
+</line>
+
+<line>
+<src>不生不滅</src>
+<lojban>.i na jbena gi'e na morci</lojban>
+<japanese>生まれないし死なない</japanese>
+</line>
+
+<line>
+<src>不垢不浄</src>
+<lojban>.i na toljinsa gi'e na jinsa</lojban>
+<japanese>汚れていることもないしきれいということもない</japanese>
+</line>
+
+<line>
+<src>不増不減</src>
+<lojban>.i na zenba gi'e na jdika</lojban>
+<japanese>増えないし減らない</japanese>
+</line>
+
+<line>
+<src>是故空中無色</src>
+<lojban>.i ni'i la'edi'u ne'i lo kunti lo dacti na zasti</lojban>
+<japanese>上で述べたことの帰結として空(から)であるものの中には物は存在しない</japanese>
+</line>
+
+<line>
+<src>無受想行識</src>
+<lojban>.i lo selga'e .e lo tarmi .e lo seldji .e lo selsanji na zasti</lojban>
+<japanese>感じるもの、想起するもの、欲するもの、認識するものは存在しない</japanese>
+</line>
+
+<line>
+<src>無眼耳鼻舌身意</src>
+<lojban>.i tu'a lo kanla .e lo kerlo .e lo nazbi .e lo tance .e lo xadni .e
+lo menli na zasti</lojban>
+<japanese>目、耳、鼻、舌、体、心に関するものは存在しない</japanese>
+<note>
+tu'a を使って「目による働き」等を暗示した。
+しかし zasti の x1 として nu が取れるかどうかは疑問がある。
+その他の場所での zasti の使いかたにも関することだが、再考の必要がある。
+「ある」「ない」の「ない」を表現する gismu 等を集めて検討する必要がある。
+</note>
+</line>
+
+<line>
+<src>無色声香味触法</src>
+<lojban>.i lo jvinu .e lo sance .e lo panci .e lo cpina .e lo ganse .e lo selsanji
+na zasti</lojban>
+<japanese>見えるもの、音、匂い、味、触感、意識するものは存在しない</japanese>
+</line>
+
+<line>
+<src>無眼界乃至無意識界</src>
+<lojban>.i lo selju'o be sepi'o lo kanla bi'o lo menli na zasti</lojban>
+<japanese>眼から心までによって得た知識もまた存在しない</japanese>
+</line>
+
+<line>
+<src>無無明亦無無明尽</src>
+<lojban>.i lo kamtolprije na zasti .ije lo kamtolprije na sisti</lojban>
+<japanese>愚かさは存在しない。また、愚かさは終わらない</japanese>
+</line>
+
+<line>
+<src>乃至無老死亦無老死尽</src>
+<lojban>.i lo kamtolprije bi'o lo laldymro zo'u la'edi'u jetnu</lojban>
+<japanese>愚かさから老い死ぬことまでについて、上で述べたことは正しい</japanese>
+</line>
+
+<line>
+<src>無苦集滅道</src>
+<lojban>.i lo selxlafri .e lo rinka .e lo nunsisku .e lo tadji na zasti</lojban>
+<japanese>悪い経験も原因も終わることも方法もない</japanese>
+</line>
+
+<line>
+<src>無智亦無得</src>
+<lojban>.i lo kamprije na zasti .ije lo prali ji'a na zasti</lojban>
+<japanese>知恵はない。また、得るものもない</japanese>
+<note>
+ji'a を加えた。
+他にも ji'a を加えたほうがいい部分がある。
+あるいは .ije で亦の意味を表しきれていると考えるべきか
+</note>
+</line>
+
+<line>
+<src>以無所得故</src>
+<lojban>.i ni'i la'edi'u lo prali na zasti seni'i la'edi'e</lojban>
+<japanese>上で述べたことの帰結として得るものはなく、その帰結は以下に示す</japanese>
+</line>
+
+<line>
+<src></src>
+<lojban></lojban>
+<japanese></japanese>
 </line>
 
 </lines>
