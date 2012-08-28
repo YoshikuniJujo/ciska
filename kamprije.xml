@@ -7,13 +7,59 @@
 <src>摩訶 般若波羅蜜多心経</src>
 <lojban>banli ke kamprije je mulno seltcidu</lojban>
 <japanese>偉大な知恵である完成したものの読み物である</japanese>
-<note>banli: 偉大な</note>
 </line>
 
 <line>
 <src>観自在菩薩 行深般若波羅蜜多時</src>
 <lojban>ni'o la visyzifybujgu'a ca lo nu gunka fi lo kamprije je mulno kei</lojban>
 <japanese>"見る自由の仏教の働く者"は知恵である完成したもののために働いていたところ</japanese>
+</line>
+
+<line>
+<src>照見五蘊皆空 度一切苦厄</src>
+<lojban>sisku djuno lo du'u ro le mu dacti ja mangu'a cu kunti kei
+gi'e jitro ro lo selxlafri</lojban>
+<japanese>5つの物または心の働きであるものが皆空(から)であることを探し知り、<!--
+-->悪い経験を全て制御した</japanese>
+</line>
+
+<line>
+<src></src>
+<lojban>.i cusku di'e</lojban>
+<japanese>以下のことを話した</japanese>
+</line>
+
+<line>
+<src>舎利子</src>
+<lojban>ni'o doi la nebyplovoicpi selmamta</lojban>
+<japanese>"鷺の母の子"よ</japanese>
+</line>
+
+<line>
+<src>色不異空 空不異色</src>
+<lojban>.i lo dacti na frica lo kunti .i lo kunti na frica lo dacti</lojban>
+<japanese>物は空(から)であるものと異ならない。空(から)であるものは物と異ならない</japanese>
+</line>
+
+<line>
+<src>色即是空 空即是色</src>
+<lojban>.i lo dacti cu ba'e kunti .i lo kunti cu ba'e dacti</lojban>
+<japanese>物は空(から)であるものと異ならない。空(から)であるものは物と異ならない</japanese>
+</line>
+
+<line>
+<src>受想行色亦複如是</src>
+<lojban>.i fu'e ji'a lo selga'e lo tarmi lo seldji lo selsanji fu'o zo'u
+la'edi'u ja'a jetnu</lojban>
+<japanese>感じるもの、想起するもの、欲するもの、認識するものについても<!--
+-->上で述べたことは正に正しい</japanese>
+<note>
+受: selga'o
+想: tarmi
+行: seldji
+識: selsanji
+としたが、再考の必要あり
+</note>
 </line>
 
 </lines>

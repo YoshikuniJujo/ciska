@@ -36,10 +36,14 @@
 	<xsl:apply-templates select="lojban"/>
 	<br/>
 	(<xsl:apply-templates select="japanese"/>)
-	<br/><br/>
-	*note*<br/>
+	<br/>
 	<xsl:apply-templates select="note"/>
 	</p>
+</xsl:template>
+
+<xsl:template match="note">
+	<br/>*note*<br/>
+	<xsl:apply-templates/>
 </xsl:template>
 
 </xsl:stylesheet>
