@@ -8,10 +8,11 @@ ni'o la visyzifybujgu'a ca lo nu gunka fi lo kamprije je mulno kei
 
 照見五蘊皆空 度一切苦厄
 sisku djuno lo du'u ro le mu dacti ja mengu'a cu kunti kei gi'e jitro ro lo selxlafri
-(5つの物または心の働きであるものが皆空(から)であることを探し知り、悪い経験を全て制御した。)
+(5つの物または心の働きであるものが皆空(から)であることを探し知り、悪い経験を全て制御した)
+
 
 .i cusku di'e
-(以下のことを話した。)
+(以下のことを話した)
 
 舎利子
 ni'o doi la nebyplovoicpi selmamta
@@ -19,18 +20,17 @@ ni'o doi la nebyplovoicpi selmamta
 
 色不異空 空不異色
 .i lo dacti na frica lo kunti .i lo kunti na frica lo dacti
-(物は空(から)であるものと異ならない。空(から)であるものは物と異ならない。)
+(物は空(から)であるものと異ならない。空(から)であるものは物と異ならない)
 
 色即是空 空即是色
 .i lo dacti cu ba'e kunti .i lo kunti cu ba'e dacti
-(物は正に空(から)であるものだ。空(から)であるものは正に物だ。)
+(物は正に空(から)であるものだ。空(から)であるものは正に物だ)
 
-受想行識亦復如是
+受想行色亦複如是
 .i fu'e ji'a lo selga'e lo tarmi lo seldji lo selsanji fu'o zo'u la'edi'u ja'a jetnu
-(感じるもの、想起するもの、欲するもの、認識するものについても上で述べたことは正に
-正しい。)
+(感じるもの、想起するもの、欲するもの、認識するものについても上で述べたことは正に正しい)
 
-捨利子
+舎利子
 .i doi la nebyplovoicpi selmamta
 ("鷺の母の子"よ)
 
@@ -44,7 +44,7 @@ ni'o doi la nebyplovoicpi selmamta
 
 不垢不浄
 .i na toljinsa gi'e na jinsa
-(汚れてることもないしきれいということもない)
+(汚れていることもないしきれいということもない)
 
 不増不減
 .i na zenba gi'e na jdika
@@ -83,12 +83,12 @@ ni'o doi la nebyplovoicpi selmamta
 (悪い経験も原因も終わることも方法もない)
 
 無智亦無得
-.i lo kamprije na zasti .ije lo prali na zasti
+.i lo kamprije na zasti .ije lo prali ji'a na zasti
 (知恵はない。また、得るものもない)
 
 以無所得故
 .i ni'i la'edi'u lo prali na zasti seni'i la'edi'e
-(上で述べたことの結果として得るものはなく、その結果は以下に示す)
+(上で述べたことの帰結として得るものはなく、その帰結は以下に示す)
 
 菩提薩埵
 ni'o lo budjo gunka zo'u
@@ -103,7 +103,7 @@ lo fanta be tu'a lo cnise'i na zasti
 (心に関する妨げがない)
 
 無罣礙故
-.ije ni'i lo nu lo fanva na zasti kei
+.ije ni'i lo nu lo fanta na zasti kei
 (妨げがないから)
 
 無有恐怖
@@ -124,7 +124,7 @@ gi'e snada lo cnipanpi
 
 依般若波羅蜜多故
 ni'i lo nu pilno lo kamprije je mulno kei
-(知恵という完成を使うことで)
+(知恵という完成を使うことの論理的帰結として)
 
 得阿耨多羅三藐三菩提
 cpacu lo traji ke drani kamprije
@@ -136,11 +136,11 @@ ni'o djuno .ei la'edi'e lo kamprije je mulno
 
 是大神呪是大明呪
 .i lo banli ke censa selba'u cu banli ke kamprije selba'u
-(この偉大な神聖な音声は偉大な知恵の音声である)
+(偉大な神聖な音声は偉大な知恵の音声である)
 
 是無上呪是無等等呪
-.i lo selba'u poi zmadu na zasti .i lo selba'u poi dunli ji'a na zasti
-(より何かであるような音声はない。同じくらい何かであるような音声もない)
+.i lo selba'u poi zmadu na zasti .ije lo selba'u poi dunli ji'a na zasti
+(より何かであるような音声はない。そして、同じくらい何かであるような音声もない)
 
 能除一切苦真実不虚
 .i ra vimcu ro lo selxlafri gi'e jetnu gi'e na jitfa
