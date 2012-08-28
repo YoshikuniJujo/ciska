@@ -17,8 +17,7 @@
 
 <line>
 <src>照見五蘊皆空 度一切苦厄</src>
-<lojban>sisku djuno lo du'u ro le mu dacti ja mangu'a cu kunti kei
-gi'e jitro ro lo selxlafri</lojban>
+<lojban>sisku djuno lo du'u ro le mu dacti ja mengu'a cu kunti kei gi'e jitro ro lo selxlafri</lojban>
 <japanese>5つの物または心の働きであるものが皆空(から)であることを探し知り、<!--
 -->悪い経験を全て制御した</japanese>
 </line>
@@ -44,13 +43,12 @@ gi'e jitro ro lo selxlafri</lojban>
 <line>
 <src>色即是空 空即是色</src>
 <lojban>.i lo dacti cu ba'e kunti .i lo kunti cu ba'e dacti</lojban>
-<japanese>物は空(から)であるものと異ならない。空(から)であるものは物と異ならない</japanese>
+<japanese>物は正に空(から)であるものだ。空(から)であるものは正に物だ</japanese>
 </line>
 
 <line>
 <src>受想行色亦複如是</src>
-<lojban>.i fu'e ji'a lo selga'e lo tarmi lo seldji lo selsanji fu'o zo'u
-la'edi'u ja'a jetnu</lojban>
+<lojban>.i fu'e ji'a lo selga'e lo tarmi lo seldji lo selsanji fu'o zo'u la'edi'u ja'a jetnu</lojban>
 <japanese>感じるもの、想起するもの、欲するもの、認識するものについても<!--
 -->上で述べたことは正に正しい</japanese>
 <note>
@@ -110,8 +108,7 @@ nu ganse とせずに se ganse 等としたという点が適切かどうかと�
 
 <line>
 <src>無眼耳鼻舌身意</src>
-<lojban>.i tu'a lo kanla .e lo kerlo .e lo nazbi .e lo tance .e lo xadni .e
-lo menli na zasti</lojban>
+<lojban>.i tu'a lo kanla .e lo kerlo .e lo nazbi .e lo tance .e lo xadni .e lo menli na zasti</lojban>
 <japanese>目、耳、鼻、舌、体、心に関するものは存在しない</japanese>
 <note>
 tu'a を使って「目による働き」等を暗示した。
@@ -123,8 +120,7 @@ tu'a を使って「目による働き」等を暗示した。
 
 <line>
 <src>無色声香味触法</src>
-<lojban>.i lo jvinu .e lo sance .e lo panci .e lo cpina .e lo ganse .e lo selsanji
-na zasti</lojban>
+<lojban>.i lo jvinu .e lo sance .e lo panci .e lo cpina .e lo ganse .e lo selsanji na zasti</lojban>
 <japanese>見えるもの、音、匂い、味、触感、意識するものは存在しない</japanese>
 </line>
 
@@ -170,9 +166,117 @@ ji'a を加えた。
 </line>
 
 <line>
-<src></src>
-<lojban></lojban>
-<japanese></japanese>
+<src>菩提薩埵</src>
+<lojban>ni'o lo budjo gunka zo'u</lojban>
+<japanese>仏教の働く者については</japanese>
+</line>
+
+<line>
+<src>依般若波羅蜜多故</src>
+<lojban>ni'i lo nu pilno lo kamprije je mulno kei</lojban>
+<japanese>知恵という完成を使うことにより</japanese>
+</line>
+
+<line>
+<src>心無罣礙</src>
+<lojban>lo fanta be tu'a lo cnise'i na zasti</lojban>
+<japanese>心に関する妨げがない</japanese>
+</line>
+
+<line>
+<src>無罣礙故</src>
+<lojban>.ije ni'i lo nu lo fanta na zasti kei</lojban>
+<japanese>妨げがないから</japanese>
+</line>
+
+<line>
+<src>無有恐怖</src>
+<lojban>lo nunterpa na zasti</lojban>
+<japanese>恐れることがない</japanese>
+</line>
+
+<line>
+<src>遠離一切顛倒夢想</src>
+<lojban>.ije sepli ro lo xlasi'o</lojban>
+<japanese>全ての悪い考えから離れていて</japanese>
+</line>
+
+<line>
+<src>究竟涅槃</src>
+<lojban>gi'e snada lo cnipanpi</lojban>
+<japanese>感情の平和を成し遂げた</japanese>
+</line>
+
+<line>
+<src>三世諸仏</src>
+<lojban>.i ro lo purci ja cabna ja balvi bujycei</lojban>
+<japanese>すべての過去か現在か未来の仏教の神は</japanese>
+</line>
+
+<line>
+<src>依般若波羅蜜多故</src>
+<lojban>ni'i lo nu pilno lo kamprije je mulno kei</lojban>
+<japanese>知恵という完成を使うことの論理的帰結として</japanese>
+</line>
+
+<line>
+<src>得阿耨多羅三藐三菩提</src>
+<lojban>cpacu lo traji ke drani kamprije</lojban>
+<japanese>最も何かであることの正しさの知恵を得た</japanese>
+</line>
+
+<line>
+<src>故知般若波羅蜜多</src>
+<lojban>ni'o djuno .ei la'edi'e lo kamprije je mulno</lojban>
+<japanese>知恵である完成について以下のことを知らなければならない</japanese>
+</line>
+
+<line>
+<src>是大神呪是大明呪</src>
+<lojban>.i lo banli ke censa selba'u cu banli ke kamprije selba'u</lojban>
+<japanese>偉大な神聖な音声は偉大な知恵の音声である</japanese>
+</line>
+
+<line>
+<src>是無上呪是無等等呪</src>
+<lojban>.i lo selba'u poi zmadu na zasti .ije lo selba'u poi dunli ji'a na zasti</lojban>
+<japanese>より何かであるような音声はない。そして、同じくらい何かであるような音声もない</japanese>
+</line>
+
+<line>
+<src>能除一切苦真実不虚</src>
+<lojban>.i ra vimcu ro lo selxlafri gi'e jetnu gi'e na jitfa</lojban>
+<japanese>それはすべての悪い経験を取り去ってくれて、真であり偽ではない</japanese>
+</line>
+
+<line>
+<src>故説般若波羅蜜多呪</src>
+<lojban>.i mu'i lo nu cusku fi'o bacru lo kamprije je mulno selba'u kei</lojban>
+<japanese>知恵である完成の音声は声に出され話されているので、</japanese>
+</line>
+
+<line>
+<src>即説呪曰</src>
+<lojban>ko ziba bacru ri secu'u di'e</lojban>
+<japanese>あなたも近いうちに以下を話してそれを声に出しなさい</japanese>
+</line>
+
+<line>
+<src>羯諦羯諦波羅羯諦波羅僧羯諦</src>
+<lojban>.i klama .i klama .i klama lo drata .i ba'o klama lo drata</lojban>
+<japanese>行っている。行っている。別のものへと行っている。別のものへと行きついた</japanese>
+</line>
+
+<line>
+<src>菩提薩婆訶</src>
+<lojban>.i kamcnipanpi .ui</lojban>
+<japanese>うれしい、心の平和だ</japanese>
+</line>
+
+<line>
+<src>般若心経</src>
+<lojban>.i kamprije seltcidu</lojban>
+<japanese>知恵の読み物だ</japanese>
 </line>
 
 </lines>
