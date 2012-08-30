@@ -11,8 +11,20 @@
 
 <line>
 <src>観自在菩薩 行深般若波羅蜜多時</src>
-<lojban>ni'o la visyzifybujgu'a ca lo nu gunka fi lo kamprije je mulno kei</lojban>
-<japanese>"見る自由の仏教の働く者"は知恵である完成したもののために働いていたところ</japanese>
+<lojban>ni'o la visyzifybujyzu'e ca lo nu gunka fi lo kamprije je mulno kei</lojban>
+<japanese>"見る自由の仏教の行為者"は知恵である完成したもののために働いていたところ</japanese>
+<note>
+la visyzifybujgu'a は viska zifre budjo gunka から。
+菩薩を bujgu'a (budjo gunka) とした。
+仏を bujycei (budjo cevni) として、それとの対照。
+あるいは人々を助けるという意味を入れるべきか。
+人々に教えるという意味を入れると、budjo ctuca から bujyctu となるか。
+あるいは gunka の類義語の zukte についても考える必要がある。
+gunka よりも zukte の方がいいかもしれない。
+仏教の実践者といった意味合いで。
+とすると観自在菩薩は la visyzifybujyzu'e となり、菩薩は lo bujyzu'e、
+菩提薩埵は lo budjo zukte となる。
+</note>
 </line>
 
 <line>
@@ -188,8 +200,8 @@ ji'a を加えた。
 
 <line>
 <src>菩提薩埵</src>
-<lojban>ni'o lo budjo gunka zo'u</lojban>
-<japanese>仏教の働く者については</japanese>
+<lojban>ni'o lo budjo zukte zo'u</lojban>
+<japanese>仏教の行為者については</japanese>
 </line>
 
 <line>
