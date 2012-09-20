@@ -11,7 +11,7 @@
 
 <line>
 <src>観自在菩薩 行深般若波羅蜜多時</src>
-<lojban>ni'o la visyzifybujyzu'e ca lo nu gunka fi lo kamprije je mulno kei</lojban>
+<lojban>ni'o la visyzifybujyzu'e ca lonu gunka fi lo kamprije je mulno kei</lojban>
 <japanese>"見る自由の仏教の行為者"は知恵である完成したもののために働いていたところ</japanese>
 <note>
 la visyzifybujyzu'e は viska zifre budjo zukte から。
@@ -154,7 +154,7 @@ tu'a を使って「目による働き」等を暗示した。
 
 <line>
 <src>無色声香味触法</src>
-<lojban>.i lo jvinu .e lo sance .e lo panci .e lo cpina .e lo ganse .e lo selsanji na zasti</lojban>
+<lojban>.i lo jvinu .e lo sance .e lo panci .e lo vrusi .e lo ganse .e lo selsanji na zasti</lojban>
 <japanese>見えるもの、音、匂い、味、触感、意識するものは存在しない</japanese>
 </line>
 
@@ -207,25 +207,25 @@ ji'a を加えた。
 
 <line>
 <src>依般若波羅蜜多故</src>
-<lojban>ni'i lo nu pilno lo kamprije je mulno kei</lojban>
+<lojban>ni'i lonu pilno lo kamprije je mulno kei</lojban>
 <japanese>知恵という完成を使うことにより</japanese>
 </line>
 
 <line>
 <src>心無罣礙</src>
-<lojban>lo fanta be tu'a lo cnise'i na zasti</lojban>
+<lojban>na fanta tu'a lo cnise'i</lojban>
 <japanese>心に関する妨げがない</japanese>
 </line>
 
 <line>
 <src>無罣礙故</src>
-<lojban>.ije ni'i lo nu lo fanta na zasti kei</lojban>
+<lojban>.ije ni'i lonu na fanta kei</lojban>
 <japanese>妨げがないから</japanese>
 </line>
 
 <line>
 <src>無有恐怖</src>
-<lojban>lo nunterpa na zasti</lojban>
+<lojban>na terpa</lojban>
 <japanese>恐れることがない</japanese>
 </line>
 
@@ -249,7 +249,7 @@ ji'a を加えた。
 
 <line>
 <src>依般若波羅蜜多故</src>
-<lojban>ni'i lo nu pilno lo kamprije je mulno kei</lojban>
+<lojban>ni'i lonu pilno lo kamprije je mulno kei</lojban>
 <japanese>知恵という完成を使うことの論理的帰結として</japanese>
 </line>
 
@@ -285,7 +285,7 @@ ji'a を加えた。
 
 <line>
 <src>故説般若波羅蜜多呪</src>
-<lojban>.i mu'i lo nu cusku fi'o bacru lo kamprije je mulno selba'u kei</lojban>
+<lojban>.i mu'i lonu cusku fi'o bacru lo kamprije je mulno selba'u kei</lojban>
 <japanese>知恵である完成の音声は声に出され話されているので、</japanese>
 </line>
 
